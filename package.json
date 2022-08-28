@@ -1,6 +1,6 @@
 {
   "name": "state_dept_advisory_api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JSON API for the official U.S. State Deptartment's RSS feed.",
   "main": "index.js",
   "scripts": {
