@@ -1,0 +1,18 @@
+{
+  "name": "state_dept_advisory_api",
+  "version": "0.0.1",
+  "description": "JSON API for the official U.S. State Deptartment's RSS feed.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Thomas Kirrane",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-rate-limit": "^6.5.2",
+    "rss-to-json": "^2.1.0"
+  }
+}
